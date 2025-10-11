@@ -11,7 +11,7 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
+1.	Open new file and then select sketch icon`.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
 
@@ -40,7 +40,11 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:
+## OUTPUT:EDM EX.3.1 .pdf](https://github.com/user-attachments/files/22861331/EDM.EX.3.1.pdf)
+
+
 
 ## RESULT:
+
+
 Thus, 3D model is created from orthographic projection.
